@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { DM_Sans, JetBrains_Mono, Syne } from "next/font/google";
 import { Analytics } from "@vercel/analytics/next";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import { CustomCursor } from "@/components/effects/CustomCursor";
 import { GrainOverlay } from "@/components/effects/GrainOverlay";
 import { ScrollProgress } from "@/components/effects/ScrollProgress";
@@ -62,6 +63,7 @@ export default function RootLayout({
           <Footer />
         </SmoothScroll>
         <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   );
