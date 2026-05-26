@@ -1,36 +1,59 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Piyush Jha — Portfolio
 
-## Getting Started
+Personal brand site built with **Next.js**, **Tailwind CSS**, **Framer Motion**, and **Lenis** smooth scrolling.
 
-First, run the development server:
+## Edit all content in one file
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+**`content/site.json`** — every headline, paragraph, metric, project case study, link, and image path lives here. Save the file and refresh the site; no code changes needed for copy updates.
+
+Draft copies and design notes live in **`insights/`** (`insights/site.json`, `insights/portfolio-design-brief.md`). When updating copy, edit `content/site.json` (the file the app loads).
+
+| JSON section | What it controls |
+|--------------|------------------|
+| `site` | Name, tagline, SEO, GitHub/LinkedIn, location |
+| `nav` | Header navigation |
+| `footer` | Footer copy |
+| `hero` | Home page hero |
+| `stats` | Aggregate numbers & career highlights |
+| `philosophy` | Philosophy section on home |
+| `workPreview` | Spotlight cards section labels |
+| `breadth` | Industries, delivery types, “also shipped” list |
+| `capabilities` | Six capability cards |
+| `process` | Zero-to-hero process steps |
+| `marquee` | Scrolling tech keywords |
+| `workPage` | /work page copy |
+| `aboutPage` | /about page copy |
+| `caseStudy` | Labels on project detail pages |
+| `projects[]` | Full spotlight case studies + `media` per project |
+
+### Loom walkthroughs
+
+In each project under `projects[].media`:
+
+```json
+"loomEmbedId": "your-loom-id"
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+From `https://www.loom.com/share/abc123xyz` → use `abc123xyz`.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Images
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Set `projects[].media.hero` and `gallery` to paths under `public/`, e.g. `/images/my-screenshot.png`.
 
-## Learn More
+## Development
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+npm install
+npm run dev
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Deploy (Vercel)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Import on [vercel.com](https://vercel.com) — Next.js auto-detected. Update `site.url` in `content/site.json` when your domain is live.
 
-## Deploy on Vercel
+## Code structure
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **`content/site.json`** — all editable content
+- **`src/lib/content.ts`** — loads JSON (do not edit for copy changes)
+- **`src/types/content.ts`** — TypeScript types for the JSON shape
+- **`src/components/`** — UI only; reads from `@/lib/content`

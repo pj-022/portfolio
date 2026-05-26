@@ -1,0 +1,507 @@
+{
+  "site": {
+    "name": "Piyush Jha",
+    "title": "Full-Stack Product Engineer",
+    "headerSubtitle": "Product Engineer",
+    "tagline": "Wireframes to production. Data to AI. Strategy to deployment. One engineer, the whole surface area.",
+    "description": "Portfolio of Piyush Jha — full-stack product engineer who owns the entire build: UX, frontend, backend, databases, DevOps, cloud infra, and AI. Fintech, NBFC, voice agents, and a lot more.",
+    "url": "https://piyushjha.dev",
+    "links": {
+      "github": "https://github.com/pj-022",
+      "linkedin": "https://www.linkedin.com/in/pj022/"
+    },
+    "workIntro": "Three representative deep dives from a much larger body of work — fintech data infrastructure, full-stack commerce, and enterprise voice AI. The domain changes. The standard doesn't.",
+    "location": "India · Remote-friendly"
+  },
+  "nav": [
+    { "label": "Home", "href": "/" },
+    { "label": "Work", "href": "/work" },
+    { "label": "About", "href": "/about" }
+  ],
+  "footer": {
+    "headline": "Many products shipped.",
+    "headlineMuted": "One engineer. The entire stack.",
+    "description": "A personal archive across fintech, banking, e-commerce, voice AI, and platform engineering — representative deep dives, not the complete catalog.",
+    "connectLabel": "Connect",
+    "exploreLabel": "Explore",
+    "techNote": "Crafted with Next.js · Deployed on Vercel"
+  },
+  "hero": {
+    "eyebrow": "Full-Stack Product Engineer",
+    "line1": "From idea to infra —",
+    "line2": "I own the whole thing.",
+    "body": "Wireframes, frontend, backend, databases, DevOps, cloud infrastructure, and AI agents. I don't hand off at the column boundary. Across fintech, banking, NBFCs, commerce, and enterprise AI — I've built it all, end to end, many times over.",
+    "primaryCta": "See the work",
+    "secondaryCta": "How I work",
+    "footnote": "10+ products shipped · 10+ industries · 100k+ events/day · Data to AI",
+    "scrollLabel": "Scroll"
+  },
+  "stats": {
+    "label": "At a glance",
+    "description": "Aggregate numbers from production systems — not a single project. These are the compound results of building across fintech, commerce, AI, and platform engineering over many years.",
+    "siteStats": [
+      { "value": "10+", "label": "Products & platforms shipped", "suffix": "" },
+      { "value": "100k+", "label": "Events processed daily", "suffix": "" },
+      { "value": "10", "label": "Industries touched", "suffix": "+" },
+      { "value": "5+", "label": "Banks & NBFCs integrated", "suffix": "" }
+    ],
+    "careerHighlights": [
+      {
+        "metric": "96%",
+        "label": "Ops TAT reduction",
+        "context": "Financial data platform"
+      },
+      {
+        "metric": "100%",
+        "label": "Automated recon & daily reporting",
+        "context": "Financial data platform"
+      },
+      {
+        "metric": "20%",
+        "label": "Increase in sales",
+        "context": "Commerce platform"
+      },
+      {
+        "metric": "90%",
+        "label": "Reduction in human-handled calls",
+        "context": "Voice AI platform"
+      }
+    ]
+  },
+  "philosophy": {
+    "label": "Philosophy",
+    "title": "No handoffs.",
+    "titleMuted": "No gaps. No excuses.",
+    "paragraphs": [
+      "I didn't choose a lane. I chose the whole road. Strategy, wireframes, system design, frontend, backend, databases, cloud infra, DevOps, data pipelines, AI agents, shipping, post-launch iteration — I've owned all of it, repeatedly, across many engagements.",
+      "That breadth isn't a flex. It's a working style. When one person understands the product, the data, the infrastructure, and the user all at once, things don't fall through the cracks between teams. They get built right the first time — and fixed fast when they don't.",
+      "The three spotlights on this site are examples, not the ceiling. The same depth of ownership applies whether the next build is a lending data mart, a conversion-optimized storefront, or a voice agent for a Fortune-scale brand."
+    ]
+  },
+  "workPreview": {
+    "label": "Spotlight case studies",
+    "title": "Three deep dives.",
+    "titleMuted": " Not the full catalog.",
+    "viewAllLink": "Full work index →",
+    "spotlightBadge": "Spotlight",
+    "readCaseStudy": "Read case study"
+  },
+  "breadth": {
+    "label": "Beyond the spotlights",
+    "title": "Many products.",
+    "titleMuted": " One standard.",
+    "spotlightNote": "Three deep dives below — representative of multiple builds across data, commerce, and AI. The domains shift; the ownership model and quality bar don't.",
+    "industriesLabel": "Industries & domains",
+    "alsoShippedLabel": "Also shipped",
+    "industries": [
+      "Fintech & NBFC",
+      "Banking integrations",
+      "Ecommerce & D2C",
+      "Travel & hospitality",
+      "Insurance & renewals",
+      "SaaS & B2B platforms",
+      "Retail & marketplaces",
+      "HR & recruitment tech",
+      "Health data systems",
+      "Internal ops tooling",
+      "CRM & lead platforms"
+    ],
+    "deliveryTypes": [
+      {
+        "title": "Data platforms & ETL",
+        "description": "Pipelines, warehouses, quality gates, and executive dashboards for regulated finance — from ingestion through curated, decision-ready layers.",
+        "count": "8+ engagements"
+      },
+      {
+        "title": "Full-stack product builds",
+        "description": "Zero-to-one web apps and platforms — wireframes through system design, implementation, deployment, and iteration.",
+        "count": "10+ products"
+      },
+      {
+        "title": "Commerce & growth systems",
+        "description": "Storefronts, payments, catalog logic, and event-driven analytics — instrumented for conversion and performance from day one.",
+        "count": "6+ launches"
+      },
+      {
+        "title": "Voice & conversational AI",
+        "description": "Phone-native agents for enterprise brands across banking, insurance, travel, and retail — design, orchestration, telephony, evaluation, and production scale.",
+        "count": "10+ agent programs"
+      },
+      {
+        "title": "Cloud & platform engineering",
+        "description": "AWS serverless, event queues, observability stacks, and breaking monoliths into services — infrastructure that ships reliably and doesn't page you at 2am.",
+        "count": "10+ infra programs"
+      },
+      {
+        "title": "Database engineering",
+        "description": "Schema design, query optimization, migrations, replication strategies, and multi-database architectures for both transactional and analytical workloads.",
+        "count": "Across all engagements"
+      },
+      {
+        "title": "Integrations & automation",
+        "description": "Banking APIs, CRM sync, webhooks, bots, and internal workflow automation — gluing systems together without coupling them permanently.",
+        "count": "12+ integration layers"
+      }
+    ],
+    "additionalWork": [
+      "Lead workflow & CRM sync platforms",
+      "Telegram & internal ops automation",
+      "Recruitment & assessment backends",
+      "Payment & lending adjacency tools",
+      "Real-time notification systems",
+      "Multi-tenant admin consoles",
+      "API gateways & partner webhooks",
+      "Performance & Core Web Vitals programs",
+      "LLM evaluation & guardrail frameworks",
+      "Outbound dialer & telephony orchestration",
+      "Design systems & component libraries",
+      "Database schema migrations & optimization",
+      "Migration from monolith → microservices",
+      "Event-driven microservices & queue architectures"
+    ]
+  },
+  "capabilities": {
+    "label": "Capabilities",
+    "title": "Every phase.",
+    "titleMuted": " One owner.",
+    "items": [
+      {
+        "title": "Strategy & planning",
+        "description": "Roadmaps, scope, stakeholder alignment, and trade-offs before a single line of code. I've sat in the room where the business decision gets made — and I've shipped the software that delivers it.",
+        "icon": "compass"
+      },
+      {
+        "title": "Product & UX design",
+        "description": "Wireframes, user flows, design systems, and interfaces that feel considered — built by someone who also writes the code behind them.",
+        "icon": "layout"
+      },
+      {
+        "title": "Frontend engineering",
+        "description": "Performant, accessible React and Next.js experiences — with animation, component architecture, and craft where it matters.",
+        "icon": "monitor"
+      },
+      {
+        "title": "Backend & APIs",
+        "description": "Domain-driven services, RESTful and event-driven APIs, and data models designed for the way things actually change.",
+        "icon": "server"
+      },
+      {
+        "title": "Database engineering",
+        "description": "Relational and NoSQL schema design, query optimization, migrations, replication, and choosing the right storage primitive for the job.",
+        "icon": "database"
+      },
+      {
+        "title": "Cloud & DevOps",
+        "description": "AWS, serverless, container orchestration, CI/CD pipelines, and infrastructure-as-code — infrastructure that ships reliably and scales without drama.",
+        "icon": "cloud"
+      },
+      {
+        "title": "AI & voice agents",
+        "description": "LLM orchestration, retrieval pipelines, evaluation frameworks, and production voice agents — not demos. Shipped at enterprise scale.",
+        "icon": "sparkles"
+      }
+    ]
+  },
+  "process": {
+    "label": "Process",
+    "title": "Zero to production",
+    "titleMuted": " isn't a slogan.",
+    "description": "It's the only way I know how to work — owning the full arc from ambiguous brief to something people use, measure, and trust in production.",
+    "steps": [
+      { "step": "01", "label": "Discover", "detail": "Problem, users, constraints, success metrics, stakeholder map" },
+      { "step": "02", "label": "Define", "detail": "Scope, architecture, experience principles, non-negotiables" },
+      { "step": "03", "label": "Design", "detail": "Wireframes, system design docs, data models, API contracts" },
+      { "step": "04", "label": "Build", "detail": "Full-stack implementation — frontend, backend, infra, integrations" },
+      { "step": "05", "label": "Ship", "detail": "Deploy, observe, triage, iterate with real feedback" },
+      { "step": "06", "label": "Scale", "detail": "Harden, automate, hand off cleanly — or keep expanding" }
+    ]
+  },
+  "marquee": {
+    "items": [
+      "Product strategy",
+      "Wireframes",
+      "Design systems",
+      "React",
+      "Next.js",
+      "Node.js",
+      "Python",
+      "AWS",
+      "Serverless",
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "DynamoDB",
+      "Redis",
+      "Kafka",
+      "ETL pipelines",
+      "Event streaming",
+      "Voice AI",
+      "LLM orchestration",
+      "Telephony",
+      "CI/CD",
+      "Docker",
+      "DevOps",
+      "Analytics",
+      "System design",
+      "Fintech",
+      "NBFC",
+      "Banking APIs"
+    ]
+  },
+  "workPage": {
+    "metaTitle": "Work",
+    "label": "Work",
+    "title": "Spotlight studies",
+    "titleMuted": " from a larger body of work.",
+    "deepDivesLabel": "Deep dives",
+    "readFullCaseStudy": "Read full case study →"
+  },
+  "aboutPage": {
+    "metaTitle": "About",
+    "metaDescription": "About Piyush Jha — full-stack product engineer. Fintech, AI agents, cloud infra, commerce, and everything in between.",
+    "label": "About",
+    "headline": "One engineer. The whole stack. No gaps.",
+    "paragraphs": [
+      "I'm Piyush Jha — a full-stack product engineer who has never believed in specializing early. Over several years I've shipped 10+ products and platforms across fintech, banking NBFCs, e-commerce, voice AI, HR tech, health data, and internal tooling. I own the arc: from wireframe and system design to the last deployment config and post-launch instrumentation.",
+      "My work spans the full technical surface area — data platforms and banking integrations on one end, LLM orchestration and enterprise voice agents on the other, with React frontends, Node and Python backends, cloud infrastructure, CI/CD, and database engineering filling everything in between. I've built for regulated financial institutions, shipped commerce platforms with deep observability, and delivered AI calling agents for major enterprise clients.",
+      "This site highlights three representative deep dives. They are examples of a much larger catalog — patterns repeated across fintech data platforms, commerce builds, and enterprise AI. When the right collaboration appears, this is the reference point."
+    ],
+    "connectLabel": "Connect",
+    "githubLabel": "GitHub →",
+    "linkedinLabel": "LinkedIn →",
+    "locationLabel": "Based in",
+    "deliveryFootprintLabel": "Delivery footprint",
+    "principlesLabel": "Principles",
+    "principlesTitle": "How I operate",
+    "principles": [
+      {
+        "title": "Own the arc",
+        "body": "From ambiguous brief to shipped software — strategy, design, build, deploy, and iteration without the gaps that appear between teams. Not one hat. All of them."
+      },
+      {
+        "title": "Breadth as a feature",
+        "body": "Understanding the product surface, the APIs and data behind it, the dashboards that expose it, and the cloud infra it runs on — simultaneously — produces better systems than any handoff chain."
+      },
+      {
+        "title": "Craft over checklist",
+        "body": "Interfaces should feel considered. Databases should be queryable. Pipelines should fail gracefully. Voice agents should sound human. Every engagement raises the bar."
+      },
+      {
+        "title": "Measure what matters",
+        "body": "Dashboards, funnels, call outcomes, pipeline SLAs, system reliability — instrumentation is part of the product, not a phase-two ticket."
+      },
+      {
+        "title": "Repeatable excellence",
+        "body": "Patterns honed across 10+ production builds mean the next domain — insurance, travel, lending, retail — ships faster without cutting corners."
+      }
+    ],
+    "ctaTitle": "Explore three spotlights",
+    "ctaDescription": "Long-form case studies with metrics, architecture notes, and walkthroughs — each one example among many.",
+    "ctaButton": "View spotlight work →"
+  },
+  "caseStudy": {
+    "spotlightBadge": "Spotlight case study",
+    "scopeLabel": "Scope",
+    "contributionLabel": "Contribution",
+    "overviewLabel": "Overview",
+    "overviewNote": "This page documents one representative build. The same approach — full ownership from brief to production — has been applied across multiple programs in this and adjacent domains.",
+    "interfaceLabel": "Interface & systems",
+    "challengeLabel": "The challenge",
+    "approachLabel": "Approach",
+    "approachTitle": "How it came together",
+    "capabilitiesLabel": "Capabilities delivered",
+    "stackLabel": "Stack",
+    "outcomesLabel": "Outcomes",
+    "outcomesTitle": "Impact in production",
+    "nextSpotlightLabel": "Next spotlight",
+    "allWorkLink": "← All spotlight work & breadth index",
+    "watchWalkthrough": "Watch walkthrough",
+    "viewPreview": "View product preview",
+    "loomHint": "Add loomEmbedId under projects[].media in content/site.json"
+  },
+  "projects": [
+    {
+      "slug": "financial-data-platform",
+      "title": "Financial Data Platform",
+      "subtitle": "ETL, banking integrations & executive dashboards",
+      "tagline": "Unified data pipelines and real-time visibility for NBFCs and banking partners — from raw ingestion to decision-ready ops dashboards.",
+      "accent": "#3b9eff",
+      "gradient": "from-sky-500/20 via-blue-600/10 to-transparent",
+      "overview": "One of several data platforms delivered for regulated finance. This spotlight covers end-to-end ownership: heterogeneous source ingestion, quality enforcement at scale, banking API integrations, and dashboards that operations and leadership actually use for daily decisions — not vanity charts.",
+      "challenge": "Legacy systems, inconsistent schemas from multiple banking partners, and manual reconciliation created dangerous blind spots across lending portfolios. Leadership needed trustworthy, fresh metrics — not ad-hoc spreadsheet exports that were already stale by the time they arrived.",
+      "approach": [
+        {
+          "title": "Discovery & strategy",
+          "description": "Mapped source systems, compliance constraints, reconciliation workflows, and stakeholder decision patterns. Defined SLAs for data freshness, set ownership boundaries, and planned rollout phases across business units — before touching a schema."
+        },
+        {
+          "title": "Pipeline architecture",
+          "description": "Built resilient ETL flows with validation gates, idempotent transforms, and observability at every stage — from raw ingestion through standardized and curated warehouse layers. Failures surfaced fast; recoveries ran automatically."
+        },
+        {
+          "title": "Banking integrations",
+          "description": "Orchestrated secure integrations with banking APIs and partner data feeds, normalizing diverse event formats into a single analytical model without leaking domain complexity downstream."
+        },
+        {
+          "title": "Dashboards & delivery",
+          "description": "Shipped executive and operational dashboards with drill-down paths, role-aware views, and performance tuned for daily use — the kind that replace the morning Excel export, not supplement it."
+        }
+      ],
+      "capabilities": [
+        "Data modeling & warehouse design",
+        "ETL orchestration & quality gates",
+        "NBFC / banking API integrations",
+        "Executive & ops analytics UI",
+        "Monitoring, alerting & runbooks",
+        "Compliance-aware data handling"
+      ],
+      "stack": ["Python", "SQL", "Airflow / schedulers", "REST & webhooks", "Cloud data stores", "PostgreSQL", "React dashboards"],
+      "outcomes": [
+        "96% reduction in ops turnaround time for critical workflows",
+        "100% automated reconciliation and daily reporting in production",
+        "100k+ transactions handled daily across integrated sources",
+        "Five or more banks and NBFCs connected through secure integrations"
+      ],
+      "metrics": [
+        { "value": "96%", "label": "Ops TAT reduction" },
+        { "value": "100%", "label": "Automated recon & reporting" },
+        { "value": "100k+", "label": "Transactions handled daily" },
+        { "value": "5+", "label": "Banks / NBFCs integrated" }
+      ],
+      "meta": {
+        "domain": "Fintech · NBFC · Banking",
+        "scope": "Zero → production platform",
+        "role": "Product engineering · architecture · delivery",
+        "engagementType": "Spotlight · Financial data platform"
+      },
+      "media": {
+        "hero": "/images/financial-dashboard.png",
+        "gallery": ["/images/financial-dashboard.png"],
+        "loomEmbedId": null,
+        "videoCaption": "Pipeline orchestration & executive dashboard walkthrough"
+      }
+    },
+    {
+      "slug": "commerce-experience",
+      "title": "Commerce Experience",
+      "subtitle": "Full-stack ecommerce with observability built in",
+      "tagline": "A complete storefront — catalog to checkout — instrumented for growth and performance from day one.",
+      "accent": "#ff6b4a",
+      "gradient": "from-orange-500/20 via-rose-600/10 to-transparent",
+      "overview": "Representative of multiple commerce builds — owning the full lifecycle from information architecture and UI systems through transactional backend, payments, and behavioral analytics. Every release measurable, every funnel step traceable, every performance regression visible before customers feel it.",
+      "challenge": "Commerce teams need velocity without flying blind. Every release should be measurable, every funnel step traceable, and every performance regression visible before customers feel it. The infrastructure has to handle real money flows with the same care as the interface handles real users.",
+      "approach": [
+        {
+          "title": "Product design & IA",
+          "description": "Wireframed journeys for discovery, cart, and checkout. Established design tokens and component patterns so marketing and engineering could ship pages without fragmenting the experience."
+        },
+        {
+          "title": "Storefront engineering",
+          "description": "Built a fast, accessible frontend with responsive layouts, optimistic interactions, and SEO-aware rendering — optimized for conversion and long-term maintainability, not just launch speed."
+        },
+        {
+          "title": "Transactional backend",
+          "description": "Implemented catalog, inventory, orders, and payment handoffs with clear domain boundaries, audit trails, and failure modes designed for real money flows. Edge cases thought through before they became incidents."
+        },
+        {
+          "title": "Events & performance",
+          "description": "Integrated event tracking across the funnel and performance budgets in CI — connecting product analytics to engineering signals in one coherent narrative, not two separate dashboards."
+        }
+      ],
+      "capabilities": [
+        "UX wireframes & design systems",
+        "Headless / full-stack storefront",
+        "Payments & order lifecycle",
+        "Product analytics & event schemas",
+        "Performance budgets & monitoring",
+        "Database schema for transactional commerce"
+      ],
+      "stack": ["React / Next.js", "Node.js APIs", "PostgreSQL", "Redis (caching)", "CDN & edge caching", "Analytics pipelines", "CI performance gates"],
+      "outcomes": [
+        "Peak API latency kept under 200ms during high-traffic periods",
+        "20% increase in sales after launch and optimization cycles",
+        "10k+ product and funnel events tracked daily for growth decisions",
+        "Five or more third-party integrations wired without fragmenting the stack"
+      ],
+      "metrics": [
+        { "value": "<200ms", "label": "Peak API latency" },
+        { "value": "20%", "label": "Increase in sales" },
+        { "value": "10k+", "label": "Events tracked daily" },
+        { "value": "5+", "label": "Third-party integrations" }
+      ],
+      "meta": {
+        "domain": "Ecommerce · D2C",
+        "scope": "Product · design · build · ship",
+        "role": "Full-stack product engineering",
+        "engagementType": "Spotlight · Commerce platform"
+      },
+      "media": {
+        "hero": "/images/commerce-storefront.png",
+        "gallery": ["/images/commerce-storefront.png"],
+        "loomEmbedId": null,
+        "videoCaption": "Storefront, funnel events & performance monitoring overview"
+      }
+    },
+    {
+      "slug": "conversational-intelligence",
+      "title": "Conversational Intelligence",
+      "subtitle": "Enterprise voice agents for major brands — at scale",
+      "tagline": "Natural, domain-aware voice agents for banking, insurance, travel, and retail — designed to sound human, operate reliably, and never stop improving.",
+      "accent": "#a78bfa",
+      "gradient": "from-violet-500/20 via-purple-600/10 to-transparent",
+      "overview": "A deep dive into one vertical of many — production voice AI agents across travel, banking, insurance, and retail for multiple enterprise clients. Conversation design, LLM orchestration, telephony integration, evaluation frameworks, and delivery playbooks — at enterprise scale, not demo scale.",
+      "challenge": "Generic chatbots fail in regulated, high-stakes domains. Agents must handle ambiguity without freezing, stay on-brand without sounding scripted, recover gracefully from unexpected input, and remain observable and improvable in production — all while keeping call latency low enough to feel like a real conversation.",
+      "approach": [
+        {
+          "title": "Conversation design",
+          "description": "Structured flows around real user intent — pre-call context loading, phase detection, graceful fallbacks, and escalation logic — with language tuned to brand tone, not template bot voice."
+        },
+        {
+          "title": "Agent architecture",
+          "description": "Composed LLM orchestration, tool use, retrieval augmentation, and guardrails into testable, modular pipelines. Built regression-aware evaluation harnesses for dialogue paths that matter."
+        },
+        {
+          "title": "Voice & telephony",
+          "description": "Integrated STT/TTS pipelines and telephony infrastructure for both outbound and inbound scenarios — optimizing for latency, barge-in handling, and turn-taking that feels natural on a phone call."
+        },
+        {
+          "title": "Client delivery & iteration",
+          "description": "Partnered with enterprise teams through POC → pilot → production, building feedback loops, analytics on call outcomes, and continuous iteration cycles that improve agents after each deployment."
+        }
+      ],
+      "capabilities": [
+        "Voice UX & dialogue system design",
+        "Multi-domain agent architecture",
+        "LLM orchestration & guardrails",
+        "Telephony & real-time audio pipelines",
+        "Evaluation frameworks & production iteration",
+        "Enterprise client delivery playbooks"
+      ],
+      "stack": ["Python / Node.js services", "LLM providers & tooling", "Speech APIs (STT/TTS)", "Telephony platforms", "Vector stores & context layers", "Observability & eval suites"],
+      "outcomes": [
+        "10k+ production calls handled monthly across deployed programs",
+        "90% reduction in calls requiring human agents",
+        "Sub-500ms latency for natural phone-native conversations",
+        "Ten or more voice agents designed, built, and delivered for enterprise clients"
+      ],
+      "metrics": [
+        { "value": "10k+", "label": "Calls handled monthly" },
+        { "value": "90%", "label": "Human calls reduced" },
+        { "value": "<500ms", "label": "Voice latency" },
+        { "value": "10+", "label": "Agents delivered" }
+      ],
+      "meta": {
+        "domain": "Enterprise AI · Voice · Conversational",
+        "scope": "Design · build · deploy · iterate",
+        "role": "Product · systems · AI engineering",
+        "engagementType": "Spotlight · Voice AI platform"
+      },
+      "media": {
+        "hero": "/images/voice-agent-console.png",
+        "gallery": ["/images/voice-agent-console.png"],
+        "loomEmbedId": null,
+        "videoCaption": "Voice agent console, live calls & evaluation workflow"
+      }
+    }
+  ]
+}
